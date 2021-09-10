@@ -1,0 +1,76 @@
+body
+{
+  background-image: linear-gradient(#89bdf7, #bca6d5) ;
+  background-attachment: fixed;
+}
+
+div{
+   text-align:center;
+   box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+   margin-bottom: 10px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   border-radius: 20px;
+} 
+
+.signup
+{
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 600;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.label
+{
+  color: gray;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  text-align: center;
+
+  padding-right: 10px;
+    display: flex;
+  margin-left: 540px;
+  margin-top: 15px;
+}
+
+.input
+{
+  border-radius: 4px;
+  height: 25px;
+  width: 225px;
+  color: white;
+  border: none;
+  text-align: center;
+}
+
+.submit
+{
+  background-color: #4cc1a6;
+  color: white;
+  border-radius: 4px;
+  padding: 10px 40px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: normal;
+  margin-top: 10px;
+  border: none;
+}
+
+.footer
+{
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  color: white;
+  font-weight: 600;
+}
+
+a
+{
+  text-decoration: none;
+  color: purple;
+  font-weight: 600;
+}
